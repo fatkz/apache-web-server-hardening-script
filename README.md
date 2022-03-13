@@ -4,8 +4,8 @@
 
 
 > The main purpose of apache web server hardening is to configure your apache server in an easy way. 
-> _For instructions on installattion, see  [Installation](https://github.com/fatkz/apache-web-server-hardening-script). I highly recommend you follow them._
-## installing
+> _For instructions on installation, see  [Installation]. I highly recommend you follow them._
+## Installation
 
 ```sh
 git clone https://github.com/fatkz/apache-web-server-hardening-script.git
